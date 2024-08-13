@@ -4,7 +4,7 @@
 - 🔭 В данный момент я работаю в компании, связанной с железными дорогами
 
 ### Связь со мной:
-[<img align="left" alt="DariyaShi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="dariyashin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 ### Мои навыки:
