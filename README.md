@@ -17,4 +17,4 @@
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/opa_oz/
+[instagram]: https://www.instagram.com/dariyashin/
